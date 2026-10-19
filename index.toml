@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "4e2e4a35d1343247310780d66fc6af105ff09189ab6549f2a5e8a8738726af3c"
-
-[[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.pw.toml"
 hash = "9fbefbc3e9ba816e9c15d0fd8d212b1d2bdd20d0ee87c0e6c2f7fe2c34c83ce2"
 metafile = true
