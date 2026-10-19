@@ -916,21 +916,6 @@ hash = "2a9b18535c5633a17cbc184a3d66918b4c810d0c5d68cbfe967648a9a4113b3f"
 metafile = true
 
 [[files]]
-file = "mods/project-mmo-farmers-delight.pw.toml"
-hash = "a7ab35ff6f4f71b7a5985c5d6e2b0c9193d7676206976b359ddc0deface7121e"
-metafile = true
-
-[[files]]
-file = "mods/project-mmo-irons-spells-spellbooks-compat.pw.toml"
-hash = "34e979dd8c63fb91beda45edc271182ab9113871ca98414ec10a27369873d0e4"
-metafile = true
-
-[[files]]
-file = "mods/project-mmo.pw.toml"
-hash = "134d8749bbc9ddec1f831ffc913c596c6c627bdd7e4d5e61dd8dc2d789c289e4"
-metafile = true
-
-[[files]]
 file = "mods/puzzleslib-v21.1.64-mc1.21.1-neoforge.pw.toml"
 hash = "885f8e88b18ffd04b34eb9e076d7c870f93e99efba28d45965c5bd4d1644ccf7"
 metafile = true
