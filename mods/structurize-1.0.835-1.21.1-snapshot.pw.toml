@@ -1,0 +1,8 @@
+name = "Structurize"
+filename = "structurize-1.0.835-1.21.1-snapshot.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9017/852/structurize-1.0.835-1.21.1-snapshot.jar"
+hash-format = "sha512"
+hash = "86a15d0f512922dd32d314dcc091b078fe582f12fcd25a8b5e1d97ac30fa72f6353fe2a57a2548fe51286e8d5733f0417db49218f80cc7bea994e6e97ccb653f"

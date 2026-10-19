@@ -1,0 +1,12 @@
+name = "villagernames-1.21.1-8.8"
+filename = "villagernames-1.21.1-8.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/uq7NQ0nb/villagernames-1.21.1-8.8.jar"
+hash-format = "sha512"
+hash = "6ab818bf17e69dfa60b8e5f572061c6b6dc179121ea708c689bb86962ded430fb6e7bcafd05e20e7ec8c68f3ae54357c33147dc1373342a02d34baecab73d364"
+
+[update.modrinth]
+mod-id = "gqRXDo8B"
+version = "uq7NQ0nb"

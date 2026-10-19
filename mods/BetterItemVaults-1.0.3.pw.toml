@@ -1,0 +1,12 @@
+name = "BetterItemVaults-1.0.3"
+filename = "BetterItemVaults-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QE2PuYU3/versions/or1CNBlV/BetterItemVaults-1.0.3.jar"
+hash-format = "sha512"
+hash = "029fd15d8cc3d40075a232eabe0a4b57ebec37b890612825e17b61bf188109fd18bafc77a48ca0ec115d6bd4cbff2ba35bf0e9992b41999995a24e4c5adc348a"
+
+[update.modrinth]
+mod-id = "QE2PuYU3"
+version = "or1CNBlV"

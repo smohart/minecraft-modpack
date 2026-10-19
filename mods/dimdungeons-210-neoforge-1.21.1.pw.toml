@@ -1,0 +1,8 @@
+name = "Dimensional Dungeons"
+filename = "dimdungeons-210-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8828/150/dimdungeons-210-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "e53eeff5c260f8c7df41a2d96a293718bab2d22fc43abd838d179bcc459c24c898354b95f20bbe8e849b011ed5592e2759842fa3c91e6f77a2bcde799c54f5a0"

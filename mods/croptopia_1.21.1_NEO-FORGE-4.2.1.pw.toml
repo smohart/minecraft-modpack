@@ -1,0 +1,8 @@
+name = "Croptopia"
+filename = "croptopia_1.21.1_NEO-FORGE-4.2.1.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6788/725/croptopia_1.21.1_NEO-FORGE-4.2.1.jar"
+hash-format = "sha512"
+hash = "67d25e579dd556fecef4e8cc30a18ca016a6a1d5ace10594cd10cbed7582e1d155e28d36f15f2a779c1e6ac032617cafcc073bd4a6b26c2a2e78c7c17fecff68"

@@ -1,0 +1,8 @@
+name = "MineColonies"
+filename = "minecolonies-1.1.1403-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9058/295/minecolonies-1.1.1403-1.21.1.jar"
+hash-format = "sha512"
+hash = "9f19bbb911e9aeabbcbfaefc0947a0b0e492bfa006a0808726e80e87180c5da69d8e70ef40cb3d41394566ddf5bd359cf4962439e4ee00e3c7aaabe82b3e8f1f"

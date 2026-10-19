@@ -1,0 +1,12 @@
+name = "kindred-1.2.0"
+filename = "kindred-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6M5GinSS/versions/sVaj1W1z/kindred-1.2.0.jar"
+hash-format = "sha512"
+hash = "ff64ff2c9950b63b1b07dfb6c4f51822f79773194e521f87ce8ac4327bbd3aa1a0f885a8db7f2e460f4c0cdcdf3d6f580643d3ad24001f6a1e39843d83274438"
+
+[update.modrinth]
+mod-id = "6M5GinSS"
+version = "sVaj1W1z"

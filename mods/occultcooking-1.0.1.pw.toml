@@ -1,0 +1,12 @@
+name = "occultcooking-1.0.1"
+filename = "occultcooking-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/61VRCKdp/versions/zB93qp9g/occultcooking-1.0.1.jar"
+hash-format = "sha512"
+hash = "e8038de31cbcb8ba616ad12ee63a71c21d448bca7c8c731c2e29e369aee84e49b4edcd18e9404a27130ffb125d8aa298271cd6bb1def234b42d911c36de8ca83"
+
+[update.modrinth]
+mod-id = "61VRCKdp"
+version = "zB93qp9g"

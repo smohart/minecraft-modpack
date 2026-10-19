@@ -1,0 +1,12 @@
+name = "refinedcooking-neoforge-1.21.1-6.4.1"
+filename = "refinedcooking-neoforge-1.21.1-6.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AOuwe9He/versions/dZHwwuLT/refinedcooking-neoforge-1.21.1-6.4.1.jar"
+hash-format = "sha512"
+hash = "13ec212ce757a1733c4fd66eb17da7e2735109760d4ff2bc7804cf826417cc9cc2fb74e42f1e91b4281175d2a4ae1f1999009a721cafb54d827c337dda9397c7"
+
+[update.modrinth]
+mod-id = "AOuwe9He"
+version = "dZHwwuLT"

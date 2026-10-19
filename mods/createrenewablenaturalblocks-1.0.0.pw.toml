@@ -1,0 +1,12 @@
+name = "createrenewablenaturalblocks-1.0.0"
+filename = "createrenewablenaturalblocks-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUV0uCUK/versions/F9XMNa2H/createrenewablenaturalblocks-1.0.0.jar"
+hash-format = "sha512"
+hash = "cea3a1360dcb445ae00625a79ccf3bc00cfb5785a21525a20e65dc2f0ad30773e38f89c1fff9758298f5a0ae7ec892a8a8a3a62a482789c4681f1a8609b64c20"
+
+[update.modrinth]
+mod-id = "fUV0uCUK"
+version = "F9XMNa2H"

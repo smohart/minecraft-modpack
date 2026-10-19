@@ -1,0 +1,8 @@
+name = "Industrial Craft 2: Nostalgia"
+filename = "industrial-craft-2-nostalgia-21.1.0-local.26.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9217/244/industrial-craft-2-nostalgia-21.1.0-local.26.jar"
+hash-format = "sha512"
+hash = "2912183ee9279b02f87a45364df5829fea71f9747d28f4c005abc9996290110ba1ce54aa9c52d59478cfaa1cb3c57ad7f110123d105ebfa5e2c4352086221ac6"

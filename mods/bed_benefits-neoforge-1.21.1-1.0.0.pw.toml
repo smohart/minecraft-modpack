@@ -1,0 +1,12 @@
+name = "bed_benefits-neoforge-1.21.1-1.0.0"
+filename = "bed_benefits-neoforge-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pagoNd3u/versions/Ez4MKrsZ/bed_benefits-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "9ccb458bd1df6a502714580b8d82e7e4eb9adedf2c03f71c05478fe1e263eeda78bb509703bd9b19d17b5eebfdf011f41ed07641f49325db7c95c86017b518ff"
+
+[update.modrinth]
+mod-id = "pagoNd3u"
+version = "Ez4MKrsZ"

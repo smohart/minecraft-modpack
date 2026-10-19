@@ -1,0 +1,12 @@
+name = "infinitetrading-1.21.1-6.0"
+filename = "infinitetrading-1.21.1-6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/U3eoZT3o/versions/TTHsCfcN/infinitetrading-1.21.1-6.0.jar"
+hash-format = "sha512"
+hash = "55865860371378dd424977b4b6ffee963034157556dfa73ac57f29ceba3b080109676cd3139a53b90cd391fa8241094875f469b09a985d015fefafb015548c9a"
+
+[update.modrinth]
+mod-id = "U3eoZT3o"
+version = "TTHsCfcN"
