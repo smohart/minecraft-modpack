@@ -1,0 +1,13 @@
+name = "Private Minecraft Modpack (DRAFT)"
+version = "0.2.0-draft"
+pack-format = "packwiz:1.1.0"
+description = "166 exact-source client mod definitions. Configs and launcher setup pending."
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.263"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d9636f132e92fe3ccee9e1017f3c955a9f6ccc5e38f2c06c338916ce5ccc569a"
