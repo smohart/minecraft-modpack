@@ -1,0 +1,13 @@
+name = "Sorted - Inventory & Chest Sorting, Quick Stack"
+filename = "sorted-fabric-0.1.27+1.21-1.21.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "863acaf7f1b8464fe225d65a46d08e6c54f1f809"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9191338
+project-id = 1595605

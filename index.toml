@@ -631,6 +631,11 @@ hash = "c29b12541f39fb8ec0120d13debe26a096462c3b36be9b7d322aed82f220014d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "f47dd1d4183be4788913c741f48620094c89bc8b556852d15ca48818a9f0a17d"
+metafile = true
+
+[[files]]
 file = "mods/fruitsdelight-1.2.14.pw.toml"
 hash = "197b6d8a60b5bbdda49928bedc9160cd2ecef3d43ef1f8cc54593b3afc2ca379"
 metafile = true
@@ -656,8 +661,18 @@ hash = "b2afa74f45cd8000a4502267066f59ea7741c4201a26238f0a0509c7adaf14a0"
 metafile = true
 
 [[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "1e43aa344f623cf2fa46e0ec8b5afeb28e629310faf754b20f8ad58e54746d8e"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted-neoforge-1.21.1-4.0.3.pw.toml"
 hash = "85811d7e61526a961174d0535154403a8f3e76cf06c07913eb5f9300462d7844"
+metafile = true
+
+[[files]]
+file = "mods/improvable-skills.pw.toml"
+hash = "9bdb65981e4b9a93c82021d509ae02a3dcd18402ba9f579571fa44974b27d118"
 metafile = true
 
 [[files]]
@@ -966,6 +981,11 @@ hash = "758f66e1ae6ca0bc52f066589e229f8712da0e1294ea2e9742683d499815cacd"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
+metafile = true
+
+[[files]]
 file = "mods/sliceanddice-4.3.4-neoforge.pw.toml"
 hash = "7daa93614a70249e27bbc301b1aa14ede441ca7c7611a61637ad155c9a93156b"
 metafile = true
@@ -986,6 +1006,11 @@ hash = "9872a3c76d4bbdf168c2b921afaa1b41e097154a5ace68d82a735192695aa03a"
 metafile = true
 
 [[files]]
+file = "mods/sorted.pw.toml"
+hash = "fee02279f98cbd6a75178cddd0f515a6d9d086af2213a26f8ae41a4624035b73"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers-create-compat-1.0.1.pw.toml"
 hash = "c571001d27de66dc1394dfbd3892f0c8025fb4a74d2f874199ec6d8f926a78cd"
 metafile = true
@@ -1003,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "67e7cf463a4ce267273de5d118da454161c2f59daf5bc2966c6e1723f7871291"
+metafile = true
+
+[[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "71944dea59c3df21fd71d4ea2d75d3e34ab159c2c39f047269e14b203416afb5"
 metafile = true
 
 [[files]]
@@ -1088,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/xp-tome.pw.toml"
 hash = "e328921ddfa33f9679adc80d8ae6d11cd407b95f5a8e73cb3e2f78708f6888d1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
