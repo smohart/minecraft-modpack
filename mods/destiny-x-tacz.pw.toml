@@ -1,0 +1,12 @@
+name = "Destiny X TaCZ"
+filename = "Destiny-X-TACZ-1.1.0-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha512"
+hash = "4e9d9bcab49a018a35b6c88d1851aede0d6a5e5f11b6e1587bb611a9e469daf29282081f00c0b899930fbb697b7e5994f845adf1d6ab5cb2fb4b25e1a5775976"
+
+[update.curseforge]
+project-id = 1586382
+file-id = 9240603
