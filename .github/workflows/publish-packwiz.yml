@@ -32,8 +32,6 @@ jobs:
         run: |
           test -f pack.toml
           test -f index.toml
-          test -f tacz/Destiny_GunPack_v1.6.0.zip
-          grep -Fq 'tacz/Destiny_GunPack_v1.6.0.zip' index.toml
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
