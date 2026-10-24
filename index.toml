@@ -1159,3 +1159,7 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
+
+[[files]]
+file = "tacz/Destiny_GunPack_v1.6.0.zip"
+hash = "22aca245738919008a94b292c2cf14861ae1d726d9ab47a1c40d9fcc203d58ce"
