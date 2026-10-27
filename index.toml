@@ -766,6 +766,11 @@ hash = "c4fa80b06e7baa7ce1f27a0ebdaa308d3e8395422e42cf6a2cab839f52063c48"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights---dynamic-lights.pw.toml"
+hash = "88ce67a644ff425064dc24478ed35e1f603975d4699d6d48946fd7a3ecde45d0"
+metafile = true
+
+[[files]]
 file = "mods/lionfishapi-3.1.pw.toml"
 hash = "3105e9f6f892ec3679251af77458d62fae7e65c55ac38ce7c7e0e603e6f5ce5a"
 metafile = true
@@ -916,6 +921,11 @@ hash = "9f6a65303dd088ea77e46bac7e8c24a2aa1e8bdae60a25cb07baf47215d0555d"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "33074e729a1234dad3d75560e9b633d8d150ac6f43e5e7c83d290b0b415e3433"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib-neoforge-0.12.15.6-beta.1-1.21.pw.toml"
 hash = "c5573531e5b636f8c2a7fdaee0e98e2ee0bc1b6b2f852a29703a5738008496df"
 metafile = true
@@ -943,6 +953,11 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "2fce8261a3f3f1c97232926429dfc4aa7ba871a04ce4fde8d87f21404a6ac857"
+metafile = true
+
+[[files]]
+file = "mods/pocket-dimension.pw.toml"
+hash = "9f9cf171ec01c3573cac404bdbf85f0023d9f7683e5c1f3def12fe687d14f009"
 metafile = true
 
 [[files]]
