@@ -935,6 +935,16 @@ hash = "c5573531e5b636f8c2a7fdaee0e98e2ee0bc1b6b2f852a29703a5738008496df"
 metafile = true
 
 [[files]]
+file = "mods/pam-s-harvestcraft-2---crops.pw.toml"
+hash = "cc48f3a406c0190e5e7fe43cbfb8dbdd2c3072ce74889dab2626faaf6bd2c788"
+metafile = true
+
+[[files]]
+file = "mods/pam-s-harvestcraft-2---trees.pw.toml"
+hash = "430d2cda30d0fb7f5f34aa5922c04624bfd51d9b7d52616bceca0c11d6ff18c5"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "d3b6da00a8b8d72523b695ce09433557b6501c78ed56b9adc96df34c6d2dbaf2"
 metafile = true
