@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/publish-packwiz.yml"
+hash = "8e94c7d9cf1b78c6b724ac271e7fde4d4dd3afaac4d3674b11b678ed6c368aa2"
+
+[[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.pw.toml"
 hash = "9fbefbc3e9ba816e9c15d0fd8d212b1d2bdd20d0ee87c0e6c2f7fe2c34c83ce2"
 metafile = true
@@ -953,11 +957,6 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "2fce8261a3f3f1c97232926429dfc4aa7ba871a04ce4fde8d87f21404a6ac857"
-metafile = true
-
-[[files]]
-file = "mods/pocket-dimension.pw.toml"
-hash = "9f9cf171ec01c3573cac404bdbf85f0023d9f7683e5c1f3def12fe687d14f009"
 metafile = true
 
 [[files]]
