@@ -5,6 +5,10 @@ file = ".github/workflows/publish-packwiz.yml"
 hash = "8e94c7d9cf1b78c6b724ac271e7fde4d4dd3afaac4d3674b11b678ed6c368aa2"
 
 [[files]]
+file = "config/packwiz-sync-marker.txt"
+hash = "e3c4c4e5adc9ed4490f6b9e3ab4e0d8a4c82b487edf0980c05b6ac9e0d4bfdce"
+
+[[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.10_mc1.21.1.pw.toml"
 hash = "9fbefbc3e9ba816e9c15d0fd8d212b1d2bdd20d0ee87c0e6c2f7fe2c34c83ce2"
 metafile = true
